@@ -13,7 +13,7 @@ A Python-based Vehicle Routing Problem (VRP) solver that optimizes delivery rout
 
 ## 📋 Prerequisites
 
-- Python 3.8+
+- Python 3.9+
 - Google Maps API key (for distance calculations)
 - Virtual environment (recommended)
 
